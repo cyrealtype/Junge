@@ -8,6 +8,8 @@ It is not as strictly structured as a text typeface,
 and has subtle irregularities reminiscent of its calligraphic origin.
 Designed by Alexei Vanyashin.
 
+![Junge Font](http://www.cyreal.org/wp-content/uploads/2012/07/junge1.gif)
+
 Junge is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
